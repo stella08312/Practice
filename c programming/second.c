@@ -6,10 +6,10 @@ int main()
 {
   float A,B;
 
-  printf("정수 A를 입력하시오:\n ");
+  printf("정수 A를 입력하시오: ");
   scanf("%f", &A);
 
-  printf("정수 B를 입력하시오:\n");
+  printf("정수 B를 입력하시오: ");
   scanf("%f", &B);
 
   printf("A/B = %f", A/B);
