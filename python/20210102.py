@@ -52,7 +52,7 @@ a = Family()
 b = Family() #클래스로 만든 객체 동해서도 클래스 변수 사용 가능
 print(a.lastname)
 print(b.lastname)
-print('\n')
+print('\n')p
 
 #모듈
 from mod1 import add #from 모듈이름 import 모듈함수
